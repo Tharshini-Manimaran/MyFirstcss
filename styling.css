@@ -1,0 +1,113 @@
+.circle{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(27, 218, 106);
+    border-radius: 50%;
+}
+.one{
+    position: absolute;
+    top: 100px;
+    left: 300px;
+}
+.two{
+    position: absolute;
+    top: 175px;
+    left: 230px;
+}
+.three{
+    position: absolute;
+    top: 175px;
+    left: 360px;
+}
+.rectangle{
+    position: absolute;
+    height:285px;
+    width: 60px;
+    border-bottom: 150px solid brown;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    top: 5px;
+    left: 315px;
+}
+.triangle-o{
+    width: 0;
+	height: 0;
+	border-top: 10px solid transparent;
+	border-right: 20px solid aquamarine;
+	border-bottom: 10px solid transparent;
+}
+.triangle-o{
+    position: absolute;
+    /* width: 0;
+	height: 0; */
+	border-top: 8px solid transparent;
+	border-right: 20px solid aquamarine;
+    border-bottom: 8px solid transparent;
+    top: 100px;
+    left: 95px;
+}
+.triangle-t{
+    position: absolute;
+    /* width: 0;
+	height: 0; */
+	border-top: 8px solid transparent;
+	border-left: 20px solid aquamarine;
+    border-bottom: 8px solid transparent;
+    top: 100px;
+    left: 130px;
+}
+.triangle-th{
+    position: absolute;
+    /* width: 0;
+	height: 0; */
+	border-right: 10px solid transparent;
+	border-top: 20px solid aquamarine;
+    border-left: 10px solid transparent;
+    top: 115px;
+    left: 113px;
+}
+.rect{
+    position: absolute;
+    height:20px;
+    width: 16px;
+    background-color: aquamarine;
+    top: 100px;
+    left: 115px;
+}
+.cir{
+    position: absolute;
+    height:20px;
+    width: 20px;
+    background-color: aquamarine;
+    border-radius: 50%;
+    top: 85px;
+    left: 112px;
+}
+.eye-left{
+    position: absolute;
+    height:5px;
+    width: 5px;
+    background-color: black;
+    border-radius: 50%;
+    top: 89px;
+    left: 111px;
+}
+.eye-right{
+    position: absolute;
+    height:5px;
+    width: 5px;
+    background-color: black;
+    border-radius: 50%;
+    top: 89px;
+    left: 127px;
+}
+.nose{
+    position: absolute;
+    /* width: 0;
+	height: 0; */
+	border-right: 4px solid transparent;
+	border-bottom: 8px solid red;
+    border-left: 4px solid transparent;
+    top: 90px;
+    left: 117px;
+}
